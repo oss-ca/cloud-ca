@@ -1,2 +1,2 @@
-# cloud-ca
-A self-rooted CA that lives in the cloud
+# Cloud CA
+A Certification Authority that lives in the cloud
